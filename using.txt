@@ -1,0 +1,33 @@
+OpenMagnifier KEYBOARD BINDINGS
+
+TOGGLE MODE
+Space, 0 (numerical keypad),/ (numerical keypad): Toggle mode (between Move / Focus / Border / Filter)
+
+MOVE MODE
++, PageUp, 1 (numerical keypad),+ (numerical keypad): Zoom In
+-, PageDown, 3 (numerical keypad),- (numerical keypad): Zoom Out
+r, 5 (numerical keypad): Reset Zoom and Center
+h, 4 (numerical keypad): Left
+l, 6 (numerical keypad): Right
+k, 8 (numerical keypad): Up
+j, 2 (numerical keypad): Down
+Enter, Enter (numerical keypad): Goto left edge
+
+FOCUS (Move Mode)
+7 (numerical keypad): Focus -
+9 (numerical keypad): Focus +
+
+BORDER (Border Mode)
+
+FILTER
+4 (numerical keypad): previous filter
+6 (numerical keypad): next filter
+5 (numerical keypad): no filter
+
+FULLSCREEN
+f, / (numerical keypad): Fullscreen
+
+QUIT
+Esc, q : QUIT
+
+
